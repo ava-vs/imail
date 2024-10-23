@@ -1,0 +1,7 @@
+infrastructure/
+canister_ids.json
+.dfx/
+
+src/imail_backend/
+
+src/presentation/views/TelegramWebApp.mo
